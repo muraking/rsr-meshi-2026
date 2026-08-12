@@ -19,6 +19,27 @@ RULES = {
     "飲み物": ["ビール", "ハイボール", "サワー", "チューハイ", "日本酒", "焼酎", "カクテル", "ワイン", "酒", "コーヒー", "ラテ", "ジュース", "ソーダ", "ドリンク", "茶", "水", "ポカリ", "レモネード", "シェイク"],
 }
 
+# Approximate centers georeferenced from the official 2026 festival map (Aug. 7
+# revision) against the official Google Maps venue POI. These are area centers,
+# not individual tent surveys, and must only be presented as estimates.
+AREA_COORDS = {
+    "Water Station": (43.175210, 141.292910),
+    "Tarukawa Restaurant": (43.177370, 141.294850),
+    "Radio FOOD＆BAR": (43.177690, 141.292080),
+    "Bannaguro Restaurant with 石狩市場×小樽横丁": (43.179060, 141.293830),
+    "Matsuri Café": (43.178800, 141.292780),
+    "Hamanasu Restaurant": (43.178110, 141.287720),
+    "PROVO FOOD & BAR": (43.177610, 141.286050),
+    "オフィシャルダイニング チュプ": (43.174990, 141.288850),
+    "Oyahuru Restaurant & Decorate": (43.175130, 141.286440),
+    "Hachiman Restaurant & Decorate": (43.177170, 141.284180),
+    "Bitoi Restaurant": (43.176340, 141.282810),
+    "Forest Restaurant": (43.172940, 141.279930),
+    "RED STAR CAFE": (43.178270, 141.280970),
+    "Happiness CarRestaurant": (43.181300, 141.284760),
+    "greentope": (43.179860, 141.281830),
+}
+
 def clean(value):
     return re.sub(r"\s+", " ", value or "").strip()
 
@@ -81,10 +102,14 @@ for area_node in doc.xpath('//div[contains(concat(" ", normalize-space(@class), 
             card_menu = card.xpath('.//*[contains(concat(" ", normalize-space(@class), " "), " food_shop_menu ")]')
             fallback = clean(card_menu[0].text_content()) if card_menu else "メニュー詳細は公式情報へ"
             menus.append({"id": f"{href[1:]}-m1", "name": fallback, "special": False, "categories": ["その他"], "tags": ["詳細未掲載"]})
+        coord = AREA_COORDS.get(area)
         shops.append({
             "id": href[1:], "name": name, "area": area, "imageUrl": image_url,
             "sourceUrl": SOURCE_URL + href, "externalUrl": info_links[0] if info_links else None,
-            "description": pr, "menus": menus, "lat": None, "lng": None,
+            "description": pr, "menus": menus,
+            "lat": coord[0] if coord else None, "lng": coord[1] if coord else None,
+            "coordinateType": "estimated-area-center" if coord else "unavailable",
+            "coordinateSource": "RSR2026公式会場マップ（8月7日更新）と公式Google Maps会場POIによる推定" if coord else None,
             "tabelogUrl": None, "tabelogScore": None
         })
 

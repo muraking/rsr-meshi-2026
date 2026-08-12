@@ -9,7 +9,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://rsr.wess.co.jp">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhHdMRK4fMZ7oKpXD8D9N6u+L4M=" crossorigin="">
-  <link rel="stylesheet" href="styles.css?v=5">
+  <link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
   <header class="hero">
@@ -60,7 +60,7 @@
     <div id="shop-map" aria-label="店舗と現在地の地図"></div>
     <div class="map-legend"><span><i class="place-dot"></i>出店エリア</span><span><i class="you-dot"></i>現在地</span></div>
     <button id="map-locate" class="map-locate" type="button">◎ 現在地も表示</button>
-    <p>公式会場マップから推定した出店エリア中心です。実際のテント位置とは数十m程度ずれる場合があります。</p>
+    <p>公式会場マップ上の出店エリア中心です。現在地はGPSをこの会場図へ変換して表示するため、実際の位置とずれる場合があります。</p>
   </dialog>
   <template id="card-template">
     <article class="card">
@@ -75,6 +75,6 @@
     </article>
   </template>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="app.js?v=5" defer></script>
+  <script src="app.js?v=6" defer></script>
 </body>
 </html>

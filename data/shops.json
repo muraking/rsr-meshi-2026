@@ -6496,6 +6496,30 @@
       "coordinateSource": "RSR2026公式会場マップ（8月7日更新）と公式Google Maps会場POIによる推定",
       "tabelogUrl": null,
       "tabelogScore": null
+    },
+    {
+      "id": "seicomart_hotchef",
+      "name": "セイコーマート HOT CHEF",
+      "area": "セイコーマート",
+      "imageUrl": "assets/seicomart/hc_katsu.jpg",
+      "sourceUrl": "https://www.seicomart.co.jp/instore/hotchef.html",
+      "externalUrl": "https://www.seicomart.co.jp/instore/lineup.html",
+      "description": "セイコーマート店内調理のHOT CHEF定番商品です。取扱商品は店舗・曜日・時間によって異なる場合があります。",
+      "menus": [
+        {"id":"seicomart_hotchef-m1","name":"カツ丼","special":false,"categories":["ご飯","肉"],"tags":[],"imageUrl":"assets/seicomart/hc_katsu.jpg"},
+        {"id":"seicomart_hotchef-m2","name":"フライドチキン","special":false,"categories":["肉","軽食"],"tags":[],"imageUrl":"assets/seicomart/hc_chikin.jpg"},
+        {"id":"seicomart_hotchef-m3","name":"豚丼","special":false,"categories":["ご飯","肉"],"tags":[],"imageUrl":"assets/seicomart/hc_butadon.jpg"},
+        {"id":"seicomart_hotchef-m4","name":"カツカレー","special":false,"categories":["カレー","ご飯","肉"],"tags":[],"imageUrl":"assets/seicomart/hc_curry.jpg"},
+        {"id":"seicomart_hotchef-m5","name":"大きなおにぎり","special":false,"categories":["ご飯"],"tags":[],"imageUrl":"assets/seicomart/hc_onigiri.jpg"},
+        {"id":"seicomart_hotchef-m6","name":"バタークロワッサン","special":false,"categories":["軽食"],"tags":[],"imageUrl":"assets/seicomart/hc_croissant.jpg"},
+        {"id":"seicomart_hotchef-m7","name":"フランクソーセージ","special":false,"categories":["肉","軽食"],"tags":[],"imageUrl":"assets/seicomart/hc_franc.jpg"}
+      ],
+      "lat": 43.1719441,
+      "lng": 141.2788275,
+      "coordinateType": "annotated-map-position",
+      "coordinateSource": "ユーザー指定のRSR2026公式会場マップ上の位置",
+      "tabelogUrl": null,
+      "tabelogScore": null
     }
   ]
 }

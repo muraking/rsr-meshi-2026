@@ -8,7 +8,8 @@
   <title>RSR MESHI 2026｜フェス飯検索</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://rsr.wess.co.jp">
-  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhHdMRK4fMZ7oKpXD8D9N6u+L4M=" crossorigin="">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <header class="hero">
@@ -27,7 +28,10 @@
       <h2>何が食べたい？</h2>
       <div id="categories" class="category-grid" aria-label="カテゴリー"></div>
       <div class="filter-row">
-        <label class="switch"><input id="favorites-only" type="checkbox"><span>♡ お気に入りだけ</span></label>
+        <div class="favorite-filters">
+          <label class="switch"><input id="shop-favorites-only" type="checkbox"><span>♥ お店</span></label>
+          <label class="switch"><input id="menu-favorites-only" type="checkbox"><span>♥ メニュー</span></label>
+        </div>
         <button id="locate" class="secondary" type="button">◎ 現在地を使う</button>
       </div>
       <div id="subfilters" class="subfilters" hidden></div>
@@ -50,15 +54,27 @@
   </nav>
 
   <dialog id="detail"><div id="detail-content"></div></dialog>
+  <dialog id="map-dialog" class="map-dialog">
+    <button class="map-close" type="button" aria-label="地図を閉じる">×</button>
+    <div class="map-heading"><b id="map-shop-name"></b><span id="map-area-name"></span></div>
+    <div id="shop-map" aria-label="店舗と現在地の地図"></div>
+    <div class="map-legend"><span><i class="place-dot"></i>出店エリア</span><span><i class="you-dot"></i>現在地</span></div>
+    <button id="map-locate" class="map-locate" type="button">◎ 現在地も表示</button>
+    <p>公式会場マップから推定した出店エリア中心です。実際のテント位置とは数十m程度ずれる場合があります。</p>
+  </dialog>
   <template id="card-template">
     <article class="card">
       <button class="card-main" type="button">
         <div class="photo-wrap"><img class="photo" alt="" loading="lazy"><span class="special">RSR SPECIAL</span></div>
         <div class="card-body"><div class="area"></div><h3 class="menu-name"></h3><div class="shop-name"></div><div class="chips"></div><div class="distance"></div></div>
       </button>
-      <button class="favorite" type="button" aria-label="お気に入りに追加">♡</button>
+      <div class="card-favorites">
+        <button class="shop-favorite" type="button" aria-label="お店をお気に入りに追加">店♡</button>
+        <button class="menu-favorite" type="button" aria-label="メニューをお気に入りに追加">飯♡</button>
+      </div>
     </article>
   </template>
-  <script src="app.js?v=4" defer></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js?v=5" defer></script>
 </body>
 </html>

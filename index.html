@@ -9,7 +9,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://rsr.wess.co.jp">
   <link rel="stylesheet" href="assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=10">
+  <link rel="stylesheet" href="styles.css?v=11">
 </head>
 <body>
   <header class="hero">
@@ -27,6 +27,7 @@
       </label>
       <h2>何が食べたい？</h2>
       <div id="categories" class="category-grid" aria-label="カテゴリー"></div>
+      <label class="area-filter"><span>出店エリアから探す</span><select id="area-filter" aria-label="出店エリア"><option value="">すべての出店エリア</option></select></label>
       <div class="filter-row">
         <div class="favorite-filters">
           <label class="switch"><input id="shop-favorites-only" type="checkbox"><span>♥ お店</span></label>
@@ -76,6 +77,6 @@
     </article>
   </template>
   <script src="assets/leaflet/leaflet.js"></script>
-  <script src="app.js?v=10" defer></script>
+  <script src="app.js?v=11" defer></script>
 </body>
 </html>

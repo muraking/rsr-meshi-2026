@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101c19">
+  <meta name="description" content="RSR2026のフェス飯をメニューから素早く探せる非公式検索ツール">
+  <title>RSR MESHI 2026｜フェス飯検索</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://rsr.wess.co.jp">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">RISING SUN ROCK FESTIVAL 2026</div>
+    <div class="brand-row"><h1>RSR <span>MESHI</span></h1><div class="sun" aria-hidden="true"></div></div>
+    <p>いま食べたいものから、会場の一皿を探そう。</p>
+  </header>
+
+  <main>
+    <section class="search-panel" aria-label="検索条件">
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" aria-label="店名・メニューを検索" placeholder="店名・メニュー（例：油そば、ビール）" autocomplete="off">
+        <button id="clear-search" class="icon-button" type="button" aria-label="検索語を消す">×</button>
+      </label>
+      <h2>何が食べたい？</h2>
+      <div id="categories" class="category-grid" aria-label="カテゴリー"></div>
+      <div class="filter-row">
+        <label class="switch"><input id="favorites-only" type="checkbox"><span>♡ お気に入りだけ</span></label>
+        <button id="locate" class="secondary" type="button">◎ 現在地を使う</button>
+      </div>
+      <div id="subfilters" class="subfilters" hidden></div>
+    </section>
+
+    <section class="results" aria-live="polite">
+      <div class="results-head">
+        <div><span id="result-count">—</span><small> 件のメニュー</small></div>
+        <select id="sort" aria-label="並び順"><option value="name">店名順</option><option value="distance">現在地から近い順</option></select>
+      </div>
+      <div id="status" class="status">データを読み込んでいます…</div>
+      <div id="cards" class="cards"></div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="メインナビゲーション">
+    <button data-action="search" class="active"><b>⌕</b><span>探す</span></button>
+    <button data-action="near"><b>◎</b><span>近い</span></button>
+    <button data-action="favorites"><b>♡</b><span>お気に入り</span></button>
+  </nav>
+
+  <dialog id="detail"><div id="detail-content"></div></dialog>
+  <template id="card-template">
+    <article class="card">
+      <button class="card-main" type="button">
+        <div class="photo-wrap"><img class="photo" alt="" loading="lazy"><span class="special">RSR SPECIAL</span></div>
+        <div class="card-body"><div class="area"></div><h3 class="menu-name"></h3><div class="shop-name"></div><div class="chips"></div><div class="distance"></div></div>
+      </button>
+      <button class="favorite" type="button" aria-label="お気に入りに追加">♡</button>
+    </article>
+  </template>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,6349 @@
+{
+  "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/",
+  "retrievedAt": "2026-08-12",
+  "shops": [
+    {
+      "id": "water_01",
+      "name": "熊吉食堂",
+      "area": "Water Station",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/water_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#water_01",
+      "externalUrl": null,
+      "description": "イーコンはウォーターステーションを管理しております。お客様の疲れを落とし、またお客様の胃袋を満たして心身ともに満足させます。スタッフは皆さん元気よく、丁寧な接客を心掛けてまいります。是非ともウォーターステーションにお立ち寄り下さい。",
+      "menus": [
+        {
+          "id": "water_01-m1",
+          "name": "フルーツビール",
+          "special": true,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "water_01-m2",
+          "name": "フルーツ飴",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m3",
+          "name": "フルーツビール各種",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m4",
+          "name": "地酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m5",
+          "name": "日本酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m6",
+          "name": "いちご飴",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m7",
+          "name": "りんご飴",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m8",
+          "name": "ぶどう飴",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_01-m9",
+          "name": "くずバー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "water_02",
+      "name": "イー・コン",
+      "area": "Water Station",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/water_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#water_02",
+      "externalUrl": null,
+      "description": "イーコンはウォーターステーションを管理しております。お客様の疲れを落とし、またお客様の胃袋を満たして心身ともに満足させます。スタッフは皆さん元気よく、丁寧な接客を心掛けてまいります。是非ともウォーターステーションにお立ち寄り下さい。",
+      "menus": [
+        {
+          "id": "water_02-m1",
+          "name": "たこ飯",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "海鮮"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "water_02-m2",
+          "name": "イシカリー",
+          "special": false,
+          "categories": [
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m3",
+          "name": "ホルモン丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m4",
+          "name": "カルビ丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m5",
+          "name": "和牛丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m6",
+          "name": "豚丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m7",
+          "name": "牛タン握り",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m8",
+          "name": "ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m9",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m10",
+          "name": "サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m11",
+          "name": "くずバー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_02-m12",
+          "name": "かき氷",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "water_03",
+      "name": "ノースミール",
+      "area": "Water Station",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/water_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#water_03",
+      "externalUrl": null,
+      "description": "イーコンはウォーターステーションを管理しております。お客様の疲れを落とし、またお客様の胃袋を満たして心身ともに満足させます。スタッフは皆さん元気よく、丁寧な接客を心掛けてまいります。是非ともウォーターステーションにお立ち寄り下さい。",
+      "menus": [
+        {
+          "id": "water_03-m1",
+          "name": "丘珠ホルモン",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "water_03-m2",
+          "name": "望来豚フランク",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m3",
+          "name": "丘珠ザンギ棒",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m4",
+          "name": "丘珠肉巻き棒",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m5",
+          "name": "丘珠焼きそば",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m6",
+          "name": "オム焼きそば",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m7",
+          "name": "揚げたこ焼き",
+          "special": false,
+          "categories": [
+            "海鮮",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m8",
+          "name": "ロングポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m9",
+          "name": "十勝チーズポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "water_03-m10",
+          "name": "いももち",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m11",
+          "name": "アルコール各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m12",
+          "name": "果実ソーダ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "water_03-m13",
+          "name": "いちごミルク",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_01",
+      "name": "まある",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_01",
+      "externalUrl": "https://www.maaru.net/maaru/",
+      "description": "素材を活かしたシンプルな和食料理と鉄板焼の店です。ワイン・日本酒・本格焼酎など、お酒の種類も豊富に取り揃えております。カウンター席・個室・鉄板コーナー、お客様のシーンに合わせてお選びいただけます。",
+      "menus": [
+        {
+          "id": "tarukawa_01-m1",
+          "name": "白だし肉うどん（そば）",
+          "special": true,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_01-m2",
+          "name": "つくねカレーミニ丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_01-m3",
+          "name": "高菜めんたいミニ丼",
+          "special": false,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_01-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_01-m5",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_01-m6",
+          "name": "ウーロンハイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_01-m7",
+          "name": "ペットボトル各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_02",
+      "name": "K's Pit",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_02",
+      "externalUrl": "https://www.kspit.com",
+      "description": "愛知県半田市にある創業25年のアメリカンダイナーK's Pitです。50s~60sのアメリカを基調とした店構えやフードで地元から遠方のお客様まで多くの方に親しまれております。",
+      "menus": [
+        {
+          "id": "tarukawa_02-m1",
+          "name": "冷やしアボカドサワークリームバーガー",
+          "special": true,
+          "categories": [
+            "軽食",
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_02-m2",
+          "name": "沖縄カーリーポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m3",
+          "name": "生ドーナツ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m4",
+          "name": "リアルアメリカンバーガー各種",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m5",
+          "name": "沖縄カーリーポテト各種",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m6",
+          "name": "生ドーナツ各種",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m7",
+          "name": "クリームソーダ各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_02-m8",
+          "name": "オリジナルサワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_03",
+      "name": "とんかつ喫茶ブタとエスプレッソと",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_03",
+      "externalUrl": "https://www.instagram.com/butaesp/",
+      "description": "奈良県から参加させていただきます、とんかつ喫茶ブタとエスプレッソとです。肉と炭水化物をたっぷりと、ご来店いただくお客様方へ万福（満腹）をご提供させていただきます。よろしくお願いいたします。",
+      "menus": [
+        {
+          "id": "tarukawa_03-m1",
+          "name": "炙りチャーシュー丼",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "tarukawa_03-m2",
+          "name": "超ブタカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m3",
+          "name": "ぶたステーキカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m4",
+          "name": "こぶたカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m5",
+          "name": "チーズトッピング",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_03-m6",
+          "name": "ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m7",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m8",
+          "name": "チューハイレモン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_03-m9",
+          "name": "ペットボトル飲料",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_04",
+      "name": "米風亭",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_04",
+      "externalUrl": "https://tabelog.com/hokkaido/A0101/A010103/1001165/",
+      "description": "1986年にオープンした札幌のビアバー。国内各社の樽生や世界各国のビール50種類以上が、お酒に合う料理と共にお楽しみいただけます。",
+      "menus": [
+        {
+          "id": "tarukawa_04-m1",
+          "name": "米風亭の油そば",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_04-m2",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_04-m3",
+          "name": "コーヒー",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_04-m4",
+          "name": "カフェラテ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_04-m5",
+          "name": "カフェモカ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_04-m6",
+          "name": "キャラメルラテ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_04-m7",
+          "name": "エスプレッソトニック",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_05",
+      "name": "KIYOSHI’S KITCHEN NORTH",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_05",
+      "externalUrl": null,
+      "description": "ASIAN KUNG-FU GENERATION ドラマー伊地知潔プロデュース店舗 KIYOSHI’S KITCHEN。大型フェスや各地イベントで大人気の「豚バラとトマトの欧風カレー」や、北海道ならではのジンギスカン丼等、バリエーション豊富なメニューでお待ちしております！",
+      "menus": [
+        {
+          "id": "tarukawa_05-m1",
+          "name": "豚バラとトマトの欧風カレー",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_05-m2",
+          "name": "豚バラとトマトの欧風カレー 温玉のせ",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m3",
+          "name": "欧風カレーとジンギスカンのあい盛り",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m4",
+          "name": "欧風カレーとジンギスカンのあい盛り 温玉のせ",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m5",
+          "name": "ジンギスカン丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m6",
+          "name": "ジンギスカン丼 温玉のせ",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m7",
+          "name": "ジンギスカン丼 キムチのせ",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m8",
+          "name": "ジンギスカン丼 温玉キムチのせ",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m9",
+          "name": "ジンギスカン皿",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m10",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m11",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m12",
+          "name": "梅酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m13",
+          "name": "焼酎",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_05-m14",
+          "name": "サワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_06",
+      "name": "寺内農園 GNOME",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_06.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_06",
+      "externalUrl": "https://isikariking.wixsite.com/my-site",
+      "description": "北海道石狩市で100年以上続く寺内農園です。5代にわたり野菜づくりを続け、朝採りの新鮮な野菜を直売所やキッチンカーでお届けしています。素材本来のおいしさを生かしたメニューを通して、寺内農園の魅力をぜひお楽しみください。",
+      "menus": [
+        {
+          "id": "tarukawa_06-m1",
+          "name": "チーズ×ガーリック特盛り揚げブロッコリー",
+          "special": true,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_06-m2",
+          "name": "コンボ（フライドポテト×揚げブロッコリー）",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m3",
+          "name": "カットメロン",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m4",
+          "name": "揚げブロッコリー",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m5",
+          "name": "フライドポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m6",
+          "name": "無添加ソフトクリーム",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m7",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m8",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m9",
+          "name": "ポカリスエット",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m10",
+          "name": "水",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_06-m11",
+          "name": "烏龍茶",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_07",
+      "name": "THE DAY",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_07.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_07",
+      "externalUrl": "https://www.instagram.com/the_day___",
+      "description": "北海道産の食材をふんだんに使用した創作ホットドッグを提供するサッポロ発のホットドッグブランドです。現在は、イベントやPOPUP、催事などでご提供中。",
+      "menus": [
+        {
+          "id": "tarukawa_07-m1",
+          "name": "ベーコン＆チーズスタンダードドッグ",
+          "special": true,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_07-m2",
+          "name": "スナックチキン",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m4",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m5",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m6",
+          "name": "テキーラ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m7",
+          "name": "ウーロン茶",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_07-m8",
+          "name": "オレンジジュース",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_08",
+      "name": "餃子と麺いせのじょう",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_08.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_08",
+      "externalUrl": "https://www.instagram.com/isenojo_official/",
+      "description": "札幌市白石区菊水にて2008年に創業。4坪の小さなお店です。日々細々と餃子とラーメンを提供しています。餃子の皮には道産小麦ゆめちからを使用。麺も道産小麦のみ使用してます。お近くにお越しの際はぜひお越しくださいませ。",
+      "menus": [
+        {
+          "id": "tarukawa_08-m1",
+          "name": "新、自家製スパイスの辛口ごまラーメン",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "ごま"
+          ]
+        },
+        {
+          "id": "tarukawa_08-m2",
+          "name": "焼餃子",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m3",
+          "name": "しょうがラーメン",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m4",
+          "name": "ザーサイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m6",
+          "name": "チューハイ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m7",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m8",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m9",
+          "name": "水",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_08-m10",
+          "name": "ポカリスエット",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_09",
+      "name": "とくいち",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_09.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_09",
+      "externalUrl": "https://www.instagram.com/tokuichi.nouilles_japonaise",
+      "description": "札幌・桑園の「とくいち」は、フランス料理のコンソメ技法と日本の出汁文化を融合させた\"ガストロノミーらぁ麺\"を提供する専門店です。北海道の旬食材を軸に、一杯ごとに料理として向き合い、澄んだスープや香りで素材本来の旨味を表現しています。食べログ百名店、ラーメンWalker金賞にも選出されています。",
+      "menus": [
+        {
+          "id": "tarukawa_09-m1",
+          "name": "とくいちの油そば",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_10",
+      "name": "石狩丼の店",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_10.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_10",
+      "externalUrl": "http://www.i-eris.tv/tomiki/",
+      "description": "石狩市合併記念名物丼グランプリ受賞の海鮮丼、元祖「いしかり丼」の店です。いしかり丼をはじめ、季節ごとの旬の地元の素材をもとにした料理をご提供しています。海鮮丼の他、手打ち十割そばもおすすめの1品です。",
+      "menus": [
+        {
+          "id": "tarukawa_10-m1",
+          "name": "北海道産生メロンソフト",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "tarukawa_10-m2",
+          "name": "料理長自信のだし汁うどん",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m3",
+          "name": "いちご＆ソフト",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m4",
+          "name": "メロン＆ソフト",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m5",
+          "name": "さつまいも＆ソフト",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m6",
+          "name": "コーヒー＆ソフト",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m7",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m8",
+          "name": "サワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m9",
+          "name": "ウィスキーハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_10-m10",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_11",
+      "name": "仙台 キッチン野郎！",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_11.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_11",
+      "externalUrl": "http://www.shu-hei.com/",
+      "description": "宮城県仙台市にお店を構える居酒屋です。簡単！でも美味しい！をコンセプトに地元仙台の鮮魚やお野菜、牛タン料理が人気です。一方で様々なイベントにも出店しておりまして、その中でも「ひょうたん揚げ」が1番人気です。",
+      "menus": [
+        {
+          "id": "tarukawa_11-m1",
+          "name": "ひょうたん揚げ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_11-m2",
+          "name": "三角油揚げ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_11-m3",
+          "name": "ゴロゴロ厚切り牛タン丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_11-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_11-m5",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_11-m6",
+          "name": "アルコール各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_12",
+      "name": "Nepalica (ネパリカ)",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_12.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_12",
+      "externalUrl": "https://www.nepalica-sapporo.com/",
+      "description": "「徒歩で行けるネパール旅行」をコンセプトにネパールのB級グルメやスパイスおつまみを札幌中心部で提供しています。本格的なスパイスをふんだんに使用した刺激的で楽しいお料理が食べられるのは札幌でここだけ？！",
+      "menus": [
+        {
+          "id": "tarukawa_12-m1",
+          "name": "ミルクチャイかき氷",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "tarukawa_12-m2",
+          "name": "スパイスミントモヒート",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_12-m3",
+          "name": "ヒマラヤンレモネード",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_12-m4",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_13",
+      "name": "RAMEN ICHI",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_13.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_13",
+      "externalUrl": "https://x.com/ramen_daichi",
+      "description": "札幌・すすきの発のRAMEN ICHI。看板の夜鳴き中華そばは、出汁が旨い煮干し中華そば。RSRだけの特別な油そば。札幌ブラック専用の濃厚醤油ダレ、限界まで煮込んだチャーシュー。フェスでしか味わえない圧倒的な背徳感。限界までお腹を満たして、全力で楽しんでください！！",
+      "menus": [
+        {
+          "id": "tarukawa_13-m1",
+          "name": "札幌BLACK爆裂肉油そば",
+          "special": true,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "tarukawa_13-m2",
+          "name": "札幌BLACK肉油そば",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_13-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_13-m4",
+          "name": "ポカリスエット",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_14",
+      "name": "Pizza Bakka-ピッツァバッカ-",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_14.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_14",
+      "externalUrl": "http://www.bakka.jp/",
+      "description": "2016年に東京都品川でOPEN。クラフトビールも自家醸造。重さ1トンの石窯に注目！持ってくるの大変だけど旨さの秘訣は窯にあり。そして長時間熟成のこだわり生地。食べログピザ百名店6連続受賞の味をご賞味下さい！",
+      "menus": [
+        {
+          "id": "tarukawa_14-m1",
+          "name": "マルゲリータ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_14-m2",
+          "name": "バカポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m3",
+          "name": "チーズケーキ串",
+          "special": false,
+          "categories": [
+            "軽食",
+            "スイーツ"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_14-m4",
+          "name": "4種類のチーズとハチミツ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_14-m5",
+          "name": "シラスとグリーンオリーブ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m6",
+          "name": "至福のマルゲリータ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m7",
+          "name": "ソーセージ盛り合わせ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m8",
+          "name": "バルサミコから揚げ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m9",
+          "name": "自家製レモネード（酒/ノンアル）",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m10",
+          "name": "自家製グレフルジュース （酒/ノンアル）",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m11",
+          "name": "自家製トマトジュース （酒/ノンアル）",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m12",
+          "name": "自家製ジンジャーエール（酒/ノンアル）",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m13",
+          "name": "自家醸造クラフトビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_14-m14",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_15",
+      "name": "とかち元気村",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_15.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_15",
+      "externalUrl": "https://idean-honbetsu.com/",
+      "description": "とかち本別町でカレー屋 [井出庵]をやっております！是非ご来店お待ちしております。",
+      "menus": [
+        {
+          "id": "tarukawa_15-m1",
+          "name": "いももち・あげいも",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "tarukawa_15-m2",
+          "name": "プチポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_15-m3",
+          "name": "ビーフカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_15-m4",
+          "name": "チーズソーセージ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_15-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_15-m6",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "tarukawa_16",
+      "name": "明洞焼肉食堂",
+      "area": "Tarukawa Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/tarukawa_16.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#tarukawa_16",
+      "externalUrl": "https://www.instagram.com/handsomecurrymates",
+      "description": "三重県津市を拠点に飲食の移動販売、イベント出店、催事出店などをしております、ウタゲカンパニーと申します。サムギョプサルとビビンバの店「明洞焼肉食堂」としてライジングサン初出店です。どうぞお見知りおきを。",
+      "menus": [
+        {
+          "id": "tarukawa_16-m1",
+          "name": "背徳のとろけるチーズかけビビンバ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ"
+          ]
+        },
+        {
+          "id": "tarukawa_16-m2",
+          "name": "サムギョプサルのビビンバ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m3",
+          "name": "牛ハラミのせビビンバ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m4",
+          "name": "厚切り豚タン塩ビビンバ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m5",
+          "name": "サムギョプサル串焼き",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m6",
+          "name": "厚切り豚タン塩串焼き",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m7",
+          "name": "牛ハラミ串焼き",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m8",
+          "name": "かき氷各種",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m9",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m10",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m11",
+          "name": "ハイボール各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "tarukawa_16-m12",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "radio_01",
+      "name": "AIR-G’ ge:radio（ジェラジオ）",
+      "area": "Radio FOOD＆BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/radio_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#radio_01",
+      "externalUrl": null,
+      "description": "昨年に続き！ 北海道のラジオステーション「AIR-G' FM北海道」がプロデュース！RSR会場限定で展開する「ラジオ」と「音楽」と「ジェラート」を融合させた夏にピッタリなコンセプトショップ「ge: radio （ジェ・ラジオ）」が登場。オリジナルジェラートで！ 心も身体もSound Coolな体感を。なお、AIR-G’特設ブースでは、現地からの生放送も展開、ラジオのライブ感もお楽しみください！",
+      "menus": [
+        {
+          "id": "radio_01-m1",
+          "name": "ラジオと音楽とジェラートの融合！",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "radio_01-m2",
+          "name": "AIR-G’ ラジオ スペシャルコラボ ジェラート（※スペシャルジェラートコラボ番組は近日、AIR-G’ 番組内ホームページにて発表！）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m4",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m5",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m6",
+          "name": "各種フロート",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m7",
+          "name": "メロンソーダフロート",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_01-m8",
+          "name": "コーヒーフロート",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "radio_02",
+      "name": "FM NORTH WAVE 82.5坪",
+      "area": "Radio FOOD＆BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/radio_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#radio_02",
+      "externalUrl": "https://www.instagram.com/82.5tsubo/",
+      "description": "FM NORTH WAVEプロデュースの居酒屋【82.5坪】FM NORTH WAVE × 牡蠣屋「5坪」 牡蠣とお酒を楽しむ場所です。札幌・狸小路2丁目「狸COMICHI」1Fで営業中。",
+      "menus": [
+        {
+          "id": "radio_02-m1",
+          "name": "ジンギスカン丼",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "radio_02-m2",
+          "name": "サッポロ生ビール黒ラベル",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_02-m3",
+          "name": "ノンアルコールビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "radio_02-m4",
+          "name": "サワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_01",
+      "name": "かばと製麺所",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_01",
+      "externalUrl": "https://www.instagram.com/kabato_official/",
+      "description": "かばと製麺所は当別において、圧倒的で感動的な理想超えて完璧な運命的で冒険的な時に叙情的な創造的で本能的芸術的超えて幸福なうどんです。ワクワクすっぞー！",
+      "menus": [
+        {
+          "id": "bannaguro_01-m1",
+          "name": "油うどん",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "ごま"
+          ]
+        },
+        {
+          "id": "bannaguro_01-m2",
+          "name": "親子うどん",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_01-m3",
+          "name": "辛辛肉うどん",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_01-m4",
+          "name": "天ぷら",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_01-m5",
+          "name": "飲み物",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_02",
+      "name": "北のビールと炭焼きソーセージの店",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_02",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "bannaguro_02-m1",
+          "name": "自家製炭焼きソーセージ",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_02-m2",
+          "name": "The焼き鳥",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_02-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_02-m4",
+          "name": "北海道の地ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_02-m5",
+          "name": "日本酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_02-m6",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_03",
+      "name": "K.L.I.M SAPPORO",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_03",
+      "externalUrl": "https://klim-sapporo.jp/",
+      "description": "札幌発のスイーツ専門店「KLIM（クリム）」です！私たちは北海道産の新鮮なミルクや厳選した地元食材にこだわり、素材本来の美味しさを引き出したこだわりのソフトクリームやスコーンなどのスイーツをお届けしています。一口食べれば誰もが笑顔になれる北の恵みの美味しさを、今回は特別にRSRへお届けします！",
+      "menus": [
+        {
+          "id": "bannaguro_03-m1",
+          "name": "贅沢いちごカスタードクレープ",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "bannaguro_03-m2",
+          "name": "KLIM特製もちもちクレープ（チョコ、いちご、チョコバナナ）",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_03-m3",
+          "name": "KLIMプレミアムカップアイス（ミルク、ごま、いちご、抹茶）",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": [
+            "ごま"
+          ]
+        },
+        {
+          "id": "bannaguro_03-m4",
+          "name": "KLIM特製！新食感スコーン（個包装）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_04",
+      "name": "丸満",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_04",
+      "externalUrl": "https://www.maruman68.com/",
+      "description": "茨城県古河市で創業60年を超える老舗の餃子専門店。他の餃子とは一線を画する真ん丸餃子は一夜漬けした白菜と豚肉、20種類の素材を使ったこだわり餃子をぜひご賞味ください。",
+      "menus": [
+        {
+          "id": "bannaguro_04-m1",
+          "name": "丸満20個盛り",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_04-m2",
+          "name": "丸満餃子",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m3",
+          "name": "金賞唐揚げ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m4",
+          "name": "ハラミ串",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m5",
+          "name": "牛たん串",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m6",
+          "name": "フライドポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m7",
+          "name": "ポテ唐",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m8",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m9",
+          "name": "サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_04-m10",
+          "name": "ペットボトル",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_05",
+      "name": "北とうがらし",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_05",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "bannaguro_05-m1",
+          "name": "ジンギスカン丼",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_05-m2",
+          "name": "ジンギスカン単品",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_05-m3",
+          "name": "ジンギスカン焼きそば",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_05-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_05-m5",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_06",
+      "name": "OTARU BASE",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_06.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_06",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "bannaguro_06-m1",
+          "name": "チキンオーバーライス",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_06-m2",
+          "name": "タコライス",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "海鮮"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_06-m3",
+          "name": "ポテトコンボ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_06-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_06-m5",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_07",
+      "name": "なると屋",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_07.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_07",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "bannaguro_07-m1",
+          "name": "若鶏半身揚げ",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_07-m2",
+          "name": "ざんぎ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_07-m3",
+          "name": "ざんぎ丼",
+          "special": false,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_07-m4",
+          "name": "ざんぎカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_07-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_07-m6",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_08",
+      "name": "中川漁業部",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_08.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_08",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "bannaguro_08-m1",
+          "name": "貝出汁醤油らーめん",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "bannaguro_08-m2",
+          "name": "ほたてまぜそば",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_08-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_08-m4",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_09",
+      "name": "小樽あんかけ処 とろり庵",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_09.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_09",
+      "externalUrl": null,
+      "description": "阿部製麵の直営だからできる「あんかけ焼そば」用の熟成麺を使用した「小樽あんかけ焼そば」です。メニューの多くが小樽市民、札幌市民から美味しいとの評価を受け、連日お昼時は行列ができるほどの大人気のお店です。",
+      "menus": [
+        {
+          "id": "bannaguro_09-m1",
+          "name": "とろり庵特製「あんかけ焼きそば」",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_09-m2",
+          "name": "あんかけラーメン",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_10",
+      "name": "石狩バーガーの店",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_10.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_10",
+      "externalUrl": "https://www.hills1916.jp/",
+      "description": "ステーキ・焼肉・ご宴会・一品料理とご家族や仲間とご利用いただける石狩の老舗です。当店では店内の左右で焼肉を楽しんでいただく「茨戸ガーデン」とステーキを楽しんでいただく「ノースヒル」で趣を変えております。外観・店内ともに、色々なインテリアが飾られており、ドライブ帰りに気軽にお立ち寄りください。大駐車場完備しております。",
+      "menus": [
+        {
+          "id": "bannaguro_10-m1",
+          "name": "新・いしかりバーガー",
+          "special": true,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "bannaguro_10-m2",
+          "name": "カレーライス",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m4",
+          "name": "ペットボトル飲料",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m5",
+          "name": "サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m6",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m7",
+          "name": "リキュール(梅酒、柚子酒)",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m8",
+          "name": "芋焼酎",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m9",
+          "name": "日本酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_10-m10",
+          "name": "ノンアルコールビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_11",
+      "name": "石狩鍋の店",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_11.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_11",
+      "externalUrl": null,
+      "description": "石狩市内でやきとり屋を営んでおります。石狩産の望来豚の豚串がオススメです。その他にもいろいろな串物を取り揃えております。皆様のお越しをお待ちしております。",
+      "menus": [
+        {
+          "id": "bannaguro_11-m1",
+          "name": "石狩鍋",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_11-m2",
+          "name": "やきそば",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_11-m3",
+          "name": "特製肉ニラ焼きそば",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_11-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_11-m5",
+          "name": "サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_12",
+      "name": "石狩鮭醤油ラーメンの店",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_12.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_12",
+      "externalUrl": "http://www.i-eris.tv/tomiki/",
+      "description": "石狩市合併記念名物丼グランプリ受賞の海鮮丼、元祖「いしかり丼」の店です。いしかり丼をはじめ、季節ごとの旬の地元の素材をもとにした料理をご提供しています。",
+      "menus": [
+        {
+          "id": "bannaguro_12-m1",
+          "name": "石狩鮭醤油らーめん",
+          "special": true,
+          "categories": [
+            "麺",
+            "海鮮"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_12-m2",
+          "name": "かき氷",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_12-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_12-m4",
+          "name": "サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_13",
+      "name": "厚田こだわり隊",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_13.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_13",
+      "externalUrl": "https://www.instagram.com/atsutakodawaritai/",
+      "description": "厚田こだわり隊は、石狩市厚田の魅力を広く発信し、地域を元気にすることを目的に活動している団体です。地元食材を活かしたオリジナル商品の開発やイベント出店を行い、調理方法にもこだわりながら厚田ならではの味をお届けしています。食を通じて地域の魅力を伝える活動に取り組んでいます。",
+      "menus": [
+        {
+          "id": "bannaguro_13-m1",
+          "name": "厚田のぶたまん（望来豚使用）",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_13-m2",
+          "name": "厚田の焼きぶたまん（望来豚使用）",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m3",
+          "name": "厚田のフランクフルト（望来豚使用）",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m5",
+          "name": "ノンアルコールビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m6",
+          "name": "りんごサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m7",
+          "name": "りんごジュース",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m8",
+          "name": "りんごサイダー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m9",
+          "name": "ミネラルウォーター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m10",
+          "name": "ホットコーヒー",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_13-m11",
+          "name": "アイスコーヒー",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_14",
+      "name": "ezorock",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_14.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_14",
+      "externalUrl": "https://www.ezorock.org",
+      "description": "通常、販売はしておりません。年に数回イベントなどに出店を実施予定です。また、RSRにおける環境対策活動ボランティアも募集中です！",
+      "menus": [
+        {
+          "id": "bannaguro_14-m1",
+          "name": "雪どけのさくらんぼ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_14-m2",
+          "name": "オーガニックじゃがいものじゃがバター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_14-m3",
+          "name": "じゃがチーズ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "bannaguro_14-m4",
+          "name": "２色のじゃがバター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_14-m5",
+          "name": "さくらんぼアイスティー",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_14-m6",
+          "name": "さくらんぼモクテル",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_14-m7",
+          "name": "朝どれ蒸しとうきび",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_14-m8",
+          "name": "じゃがバターとうきびセット",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bannaguro_15",
+      "name": "はるきちオーガニックファーム",
+      "area": "Bannaguro Restaurant with 石狩市場×小樽横丁",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bannaguro_15.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bannaguro_15",
+      "externalUrl": "https://harukichi-farm.com/",
+      "description": "RSRの会場から徒歩10分。バス停「花畔」隣に直売所があります。カレーに使った野菜はもちろん、常時20種類くらいの有機野菜を販売しています。唯一無二、オンリーワンの魅力あふれる有機野菜にこだわって20年になります。ECサイトにて野菜の発送も対応してます。",
+      "menus": [
+        {
+          "id": "bannaguro_15-m1",
+          "name": "夏野菜のみ！有機農家渾身の無水カレー！",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bannaguro_15-m2",
+          "name": "白いトウモロコシのまるかじり",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_15-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bannaguro_15-m4",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "matsuri_01",
+      "name": "KAMOME",
+      "area": "Matsuri Café",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/matsuri_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#matsuri_01",
+      "externalUrl": "https://kamome-zenibako.studio.site/",
+      "description": "小樽市銭函、海沿いに佇む夏季限定のかき氷屋です。今年で13年目になりますが、祭太郎とはもっともっと前からのお仲間です。就職が決まったり、結婚したりと「しあわせになった」エピソードが連発したため、「しあわせのいちごかき氷」という名前にしました。",
+      "menus": [
+        {
+          "id": "matsuri_01-m1",
+          "name": "しあわせのいちごかき氷",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "matsuri_01-m2",
+          "name": "シャキーン！パイナップルかき氷",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hamanasu_01",
+      "name": "リトルジュースバー",
+      "area": "Hamanasu Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hamanasu_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hamanasu_01",
+      "externalUrl": "https://www.littlejuicebar.com/",
+      "description": "1999年からRSRに出店している「LITTLE JUICE BAR」は、「いちごけずり®」のオリジナルショップです。2011年のRSRで誕生した、一番人気商品の「いちごけずり®」を中心に、新たなフルーツの楽しみ方を心躍るアイディアでご提案しています。",
+      "menus": [
+        {
+          "id": "hamanasu_01-m1",
+          "name": "いちごけずり®",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hamanasu_01-m2",
+          "name": "ホットフルーツティ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hamanasu_01-m3",
+          "name": "いちごけずり®ホワイトラムリキュール入り",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hamanasu_02",
+      "name": "中国料理 布袋",
+      "area": "Hamanasu Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hamanasu_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hamanasu_02",
+      "externalUrl": "https://zangihoteigroup.com/",
+      "description": "",
+      "menus": [
+        {
+          "id": "hamanasu_02-m1",
+          "name": "布袋のザンギ",
+          "special": true,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "provo_01",
+      "name": "PROVO",
+      "area": "PROVO FOOD & BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/provo_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#provo_01",
+      "externalUrl": "http://provo.jp/",
+      "description": "今年の夏もライジングサンに捧げます！札幌でミュージックとカルチャーのPスポットを続け23年のPROVOです。毎週末ライブイベントやDJパーティーで賑わっているのでお気軽にどうぞ！",
+      "menus": [
+        {
+          "id": "provo_01-m1",
+          "name": "ネパールあいがけカレー",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "provo_01-m2",
+          "name": "グリーンカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_01-m3",
+          "name": "自家製ジンジャーワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_01-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_01-m5",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "provo_02",
+      "name": "キッズカフェ\"らいじんぐーちょきぱー👍✌️🖐️\"",
+      "area": "PROVO FOOD & BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/provo_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#provo_02",
+      "externalUrl": "https://www.instagram.com/rsrprovo/",
+      "description": "2023年のライジングサンからスタートした5歳くらいから小学生によるキッズカフェ”らいじんぐーちょきぱー”、遂に涙の卒業生も出てしまいましたが新たに小さな子も加入して頑張ります💪子供たちがオーダーを受けてコインを受け取り、作って手渡してくれます。バタフライピーという花で青く着色したブルーハワイかき氷もオススメです！栄養と素材にもこだわってます。毎年ここのレモネードが楽しみと言って来てくれるお客さんがいるんだよ！と教えてくれました。",
+      "menus": [
+        {
+          "id": "provo_02-m1",
+          "name": "しゅわしゅわれもねーど",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "provo_02-m2",
+          "name": "無添加ブルーハワイかき氷",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_02-m3",
+          "name": "キャラメルポップコーン",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "provo_03",
+      "name": "ほっこりハウス",
+      "area": "PROVO FOOD & BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/provo_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#provo_03",
+      "externalUrl": "https://www.instagram.com/takahokkori/",
+      "description": "レモンサワー、ハイボール、ウーロンハイ、焼酎、日本酒、ワイン、マンゴージュース、、、ほっこりハウス札幌の創成イーストにある隠れ家BarMusic、Art、Curry、サウナ、温泉、旅、Fes、酒、祭、サブカルチャー…様々な文化の交流の場として老若男女に愛される地域密着な飲食店",
+      "menus": [
+        {
+          "id": "provo_03-m1",
+          "name": "オリジナルEZOカクテル",
+          "special": true,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "provo_03-m2",
+          "name": "バイブスサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_03-m3",
+          "name": "お疲れさんにクエン酸サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_03-m4",
+          "name": "アルコール各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_03-m5",
+          "name": "マンゴージュース",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "provo_04",
+      "name": "neo中華～夏のmaboroshi～",
+      "area": "PROVO FOOD & BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/provo_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#provo_04",
+      "externalUrl": "https://www.instagram.com/summer_of_maboroshi/",
+      "description": "",
+      "menus": [
+        {
+          "id": "provo_04-m1",
+          "name": "スパイスキーマカレー",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "provo_04-m2",
+          "name": "春巻各種【ブルーチーズ春巻、スイーツ春巻】",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "provo_04-m3",
+          "name": "ナチュラルワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_04-m4",
+          "name": "ハーブやスパイスサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_04-m5",
+          "name": "モクテル",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "provo_05",
+      "name": "SMOOCH COFFEE STAND",
+      "area": "PROVO FOOD & BAR",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/provo_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#provo_05",
+      "externalUrl": "https://smoochcoffee.stores.jp/",
+      "description": "",
+      "menus": [
+        {
+          "id": "provo_05-m1",
+          "name": "THEココナッツコーヒー！",
+          "special": true,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "provo_05-m2",
+          "name": "選べるハンドドリップコーヒー",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_05-m3",
+          "name": "ダブルアイスラテ",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "provo_05-m4",
+          "name": "スムーチ・ホームメイドクッキー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "cyupu_01",
+      "name": "オフィシャルダイニング チュプ",
+      "area": "オフィシャルダイニング チュプ",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/cyupu_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#cyupu_01",
+      "externalUrl": "https://www.hokkaido-sapporolion.jp/",
+      "description": "本格的な和食や洋食レストランからちょっと一杯の居酒屋、ビヤホールまで、北海道を過ごし楽しむ様々なシーンに対応できる店舗をご用意しております。北海道札幌中心部はもとより、新千歳空港や小樽にも。季節や場所を選ばず美味しいサッポロビールと料理で皆様の食に彩を。",
+      "menus": [
+        {
+          "id": "cyupu_01-m1",
+          "name": "【イートインメニュー】ジンギスカンセット（ラム肉+焼き野菜）",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "cyupu_01-m2",
+          "name": "ジンギスカン単品",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m3",
+          "name": "牛カルビ単品",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m4",
+          "name": "ジンギスカン1人前（野菜セット）",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m5",
+          "name": "野菜単品（玉ねぎ / ピーマン / コーン）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m6",
+          "name": "野菜セット（玉ねぎ・ピーマン・コーン）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m7",
+          "name": "キムチ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m8",
+          "name": "ライス",
+          "special": false,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m9",
+          "name": "ジンギスカン丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m10",
+          "name": "おつまみジンギスカン",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m11",
+          "name": "ビールセット（ジンギスカン丼・ビール）",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m12",
+          "name": "ジンギスカン焼きそば",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m13",
+          "name": "じゃがバター（塩辛のせ）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m14",
+          "name": "枝豆",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m15",
+          "name": "ソーセージ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m16",
+          "name": "ふんわり花チーズ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "cyupu_01-m17",
+          "name": "サーモン手羽先スモーク",
+          "special": false,
+          "categories": [
+            "海鮮"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m18",
+          "name": "かき氷（いちご / ブルーハワイ / 夕張メロン）",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m19",
+          "name": "アイスクリーム",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m20",
+          "name": "黒ラベル",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m21",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m22",
+          "name": "チューハイ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "cyupu_01-m23",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "oyahuru_01",
+      "name": "台湾食堂・包子家PAOZUYA",
+      "area": "Oyahuru Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/oyahuru_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#oyahuru_01",
+      "externalUrl": "https://paozuya.com",
+      "description": "出会いと、おいしさを、届けるために。台湾料理は、日本人にも馴染みやすい料理の一つ。その出会いは、まさに古くからの友達と会うかのよう。『台湾食堂 包子家（パオズヤ）』は、そんな出会いを皆様にお届けしたく、豊富な台湾料理をご用意。『包子家』の台湾フードが、笑顔とハッピーをお届けします。",
+      "menus": [
+        {
+          "id": "oyahuru_01-m1",
+          "name": "ゴロゴロ肉の魯肉飯",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "oyahuru_01-m2",
+          "name": "厚切り角煮まん",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m3",
+          "name": "台湾麺線",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m4",
+          "name": "DX魯肉飯",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m5",
+          "name": "麻辣魯肉飯",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m6",
+          "name": "大腸麺線",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m7",
+          "name": "本格手包み豚まん",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m8",
+          "name": "焼小籠包",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m9",
+          "name": "タピオカティー＆水果茶",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m10",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m11",
+          "name": "サワー・酎ハイ",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_01-m12",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "oyahuru_02",
+      "name": "池田のPIZZERIA飛行船とCafe akao",
+      "area": "Oyahuru Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/oyahuru_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#oyahuru_02",
+      "externalUrl": "https://www.hikousen.co/",
+      "description": "今年も十勝の池田町から薪窯ナポリピッツァ専門店PIZZERIA飛行船と、同町内の人気カフェCafe & Life akao がタッグを組んで北海道産食材で再現したナポリピッツァと、素敵なカフェメニューに池田町の魅力を加えて皆様のお越しをお待ちしております。",
+      "menus": [
+        {
+          "id": "oyahuru_02-m1",
+          "name": "ピッツァリモーネ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "oyahuru_02-m2",
+          "name": "池田町産鹿肉ミートボール入りお豆たっぷりトマトスープ",
+          "special": false,
+          "categories": [
+            "肉",
+            "朝食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_02-m3",
+          "name": "ドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_02-m4",
+          "name": "とかちの彩ガパオライス",
+          "special": false,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_02-m5",
+          "name": "道産牛ビーフソーセージ",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_02-m6",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_02-m7",
+          "name": "アルコール各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "oyahuru_03",
+      "name": "想いの茸 -OMOINOTAKE-",
+      "area": "Oyahuru Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/oyahuru_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#oyahuru_03",
+      "externalUrl": "https://omoinotake.info/",
+      "description": "私たちは、北海道中標津町で椎茸『想いの茸』を生産しております。丁寧に、丁寧にじっくり育てて、身の締まった良質なしいたけを皆様に食べていただきたい。この気持ちを「想いの茸(おもいのたけ)」という名前に込めました。想いを込めて育てた、良質なしいたけ本来の食感や香りを、ぜひお楽しみください。",
+      "menus": [
+        {
+          "id": "oyahuru_03-m1",
+          "name": "『想いの茸』 北海道山わさびしいたけ焼き",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "oyahuru_03-m2",
+          "name": "『想いの茸』 北海道バター醬油しいたけ焼き",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_03-m3",
+          "name": "『想いの茸』 黒胡椒チーズしいたけ焼き",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "oyahuru_03-m4",
+          "name": "想いの茸 しいたけスナック",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_03-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_03-m6",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_03-m7",
+          "name": "水",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "oyahuru_04",
+      "name": "ジソンレザー",
+      "area": "Oyahuru Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/oyahuru_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#oyahuru_04",
+      "externalUrl": "https://www.instagram.com/jison_leather",
+      "description": "海、コーヒー、アウトドア等をテーマに革製品の作成を行う傍ら、各所にてレザークラフトワークショップを開催。街中施設からキャンプ場まで、場所を問わず幅広く活動中。",
+      "menus": [
+        {
+          "id": "oyahuru_04-m1",
+          "name": "レザーワークショップ 〜デザイン多数♪ ギターストラップ型ブレスレット〜",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "oyahuru_04-m2",
+          "name": "レザーワークショップ〜スエード×鹿角 ティンダーポーチ〜",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m3",
+          "name": "レザーヘアアクセサリー&チャーム",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m4",
+          "name": "革ヤンマ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m5",
+          "name": "ミニマムサーフウォレット",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m6",
+          "name": "波型コインケース",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m7",
+          "name": "オピネルナイフケース",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "oyahuru_04-m8",
+          "name": "オンボロ風カトラリーケース",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_01",
+      "name": "私設図書館 祝日",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_01",
+      "externalUrl": "https://shukujitsu-lib.studio.site/",
+      "description": "札幌市中央区の一戸建てで、閲覧専用の私設図書館をやっています。トークや映画の上映、音楽を大きめに流す日などの催しもやっています。お酒もお喋りもOK！本を読んでも読まなくても、なんでも大丈夫ですよ。世界が平和であればなおよしです。",
+      "menus": [
+        {
+          "id": "hachiman_01-m1",
+          "name": "RI ZINE G SUN BOOK FESTIVAL",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_01-m2",
+          "name": "「本のある空間」",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_01-m3",
+          "name": "「青空の下でハンモック読書」",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_01-m4",
+          "name": "自由に閲覧できる書籍（エッセイ、小説、漫画、音楽関連本、ZINE）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_01-m5",
+          "name": "ドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_01-m6",
+          "name": "オリジナルグッズ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_02",
+      "name": "ほぐ師の店 HOG",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_02",
+      "externalUrl": "https://hogshinomise-hog.com/",
+      "description": "ホットペッパービューティーの口コミ250件超・★★★★★4.97の高評価もみほぐし店！札幌市東区の「ほぐ師匠の店 HOG」です。昨年の初出店では2日目のお昼に満員御礼。10年以上の経験者や国家資格保有者が多数在籍。今年もRSRを全力で盛り上げます！",
+      "menus": [
+        {
+          "id": "hachiman_02-m1",
+          "name": "26分間2人で同時もみ!!! 2人のセラピストが1人のお客様を同時にもみほぐすコース",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "限定"
+          ]
+        },
+        {
+          "id": "hachiman_02-m2",
+          "name": "26分同時もみほぐし（キング & クイーン）【コース】26分／40分",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_02-m3",
+          "name": "全身もみほぐし（上半身or下半身）【コース】20分／30分／40分",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_02-m4",
+          "name": "リフレクソロジー（足つぼ）【コース】20分／30分",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_02-m5",
+          "name": "ドライヘッド（頭のもみほぐし）【コース】20分／30分",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_02-m6",
+          "name": "ハンドリフレ（腕や手のもみほぐし）【コース】20分／30分",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_03",
+      "name": "オリエンタルダイナーハン",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_03",
+      "externalUrl": "https://www.instagram.com/kar___ge/",
+      "description": "東京は経堂にて産声をあげて早3年、経堂小学校正門前にて昼は仕出のお弁当、夜は立ち飲みスタイルで営業してます。季節の食材を使ったフードやカラーゲ等の揚げ物も豊富に取り揃えています。宜しくお願いします！",
+      "menus": [
+        {
+          "id": "hachiman_03-m1",
+          "name": "魯肉飯（ルーローハン）",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "hachiman_03-m2",
+          "name": "カラーゲ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m3",
+          "name": "タコライス",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "海鮮"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m5",
+          "name": "本格焼酎",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m6",
+          "name": "サワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m7",
+          "name": "お茶割り各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m8",
+          "name": "ポカリスエット",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m9",
+          "name": "ミネラルウォーター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m10",
+          "name": "マッチ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m11",
+          "name": "お茶各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_03-m12",
+          "name": "コーヒー",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_04",
+      "name": "炭火焼 鶏まぶし丼 オルガン",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_04",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "hachiman_04-m1",
+          "name": "秘伝のタレ 鶏まぶしバーガー",
+          "special": true,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_04-m2",
+          "name": "炭火焼 秘伝のタレ 鶏まぶし丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m3",
+          "name": "温玉鶏まぶし丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m4",
+          "name": "鶏まぶし茶漬け",
+          "special": false,
+          "categories": [
+            "肉",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m5",
+          "name": "梅肉鶏茶漬け",
+          "special": false,
+          "categories": [
+            "肉",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m6",
+          "name": "無添加梅茶漬け",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m7",
+          "name": "ベーコンエッグバーガー",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m8",
+          "name": "海苔と和だしのアボカドチーズ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "hachiman_04-m9",
+          "name": "海苔と和だしのきのこチーズバーガー",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "hachiman_04-m10",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m11",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m12",
+          "name": "ハイボール各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m13",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m14",
+          "name": "ノンアルカクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m15",
+          "name": "梅酒",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m16",
+          "name": "焼酎各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_04-m17",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_05",
+      "name": "Yellow Magic Spice",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_05",
+      "externalUrl": "https://www.instagram.com/yellow_magic_spice",
+      "description": "インド秘伝のガラムマサラの調合法を用いてつくられる完全熟成された20種類以上のスパイスからなるオリジナルの熟成カレー粉に加え、薬味、ハーブ、ミックスナッツ、ドライフルーツと焦がしホールスパイスを加えるインド古式の完熟ミックススパイスカリー専門店です☆実店舗歴20年の関西スパイスカレーブーム以前からのオリジナルインドカレー第一世代の味を是非☆",
+      "menus": [
+        {
+          "id": "hachiman_05-m1",
+          "name": "完熟ミックススパイス・チキンキーマカリーとベジタブル野菜カリーの2種盛り合い",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_05-m2",
+          "name": "完熟ミックススパイス・チキンキーマカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m3",
+          "name": "完熟ミックススパイス・トマト野菜カレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m4",
+          "name": "チャイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m5",
+          "name": "アイスチャイ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m6",
+          "name": "黒糖タピオカ・アイスチャイ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m7",
+          "name": "ローゼルティー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m8",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m9",
+          "name": "ビアカクテル",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_05-m10",
+          "name": "ペットボトル各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_06",
+      "name": "【青ばん屋】supported by Hi-Ho × てとらぽっと",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_06.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_06",
+      "externalUrl": "https://x.com/3aaoban",
+      "description": "アシュラシンドローム、Tsukisamu Mutton Network、3A青ばん 青木亞一人が率いる青ばん屋がBar Hi-Ho、月寒路地裏スパイス カレーてとらぽっと手を組みRSR2度目の出店！青ばん(青南蛮醤油漬け)を使ったホットドッグ、焼きそば等分かりすくて美味しいフードをご用意！ソフトドリンク、種類豊富なアルコールもご用意してお待ちしております！",
+      "menus": [
+        {
+          "id": "hachiman_06-m1",
+          "name": "青ばんスープカレー味噌ラーメン〜岩下の新生姜乗せ〜",
+          "special": true,
+          "categories": [
+            "麺",
+            "ご飯",
+            "カレー",
+            "朝食"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_06-m2",
+          "name": "青ばんホットドッグ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_06-m3",
+          "name": "青ばん焼きそば〜岩下の新生姜乗せ〜",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_06-m4",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_06-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_06-m6",
+          "name": "アルコール各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_07",
+      "name": "つけしゃぶさとう&クイーンコング",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_07.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_07",
+      "externalUrl": "https://www.instagram.com/tsukeshabu.sato/",
+      "description": "北の歓楽街ススキノで11年を迎えた創作しゃぶしゃぶ店「つけしゃぶさとう」とススキノ「クイーンコング」の合同出店です。",
+      "menus": [
+        {
+          "id": "hachiman_07-m1",
+          "name": "ナンドック（韓国風焼肉・チリソース・プレーン）",
+          "special": true,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_07-m2",
+          "name": "ロングポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_07-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_07-m4",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_07-m5",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_07-m6",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "hachiman_08",
+      "name": "cafe heartdrops",
+      "area": "Hachiman Restaurant & Decorate",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/hachiman_08.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#hachiman_08",
+      "externalUrl": "https://heartdrops334.wixsite.com/cafe-heart-drops",
+      "description": "cafe heartdropsは北大近くの裏路地にある小さな2階建ての古民家です。今年で25周年。岩瀬牧場直送のジェラートを使ったパフェやランチ、ごはん、アルコールまでいろいろお楽しみいただけます。1階はカウンターでおしゃべり。２階はのんびり空間。それぞれの時間を過ごせるアットホームなお店です。",
+      "menus": [
+        {
+          "id": "hachiman_08-m1",
+          "name": "ガパオライス",
+          "special": true,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "hachiman_08-m2",
+          "name": "バターチキンカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m3",
+          "name": "レモネード",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m4",
+          "name": "チャイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m5",
+          "name": "ノンアルサングリア",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m6",
+          "name": "ウーロン茶",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m7",
+          "name": "ペットボトル",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m8",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m9",
+          "name": "サワー各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m10",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m11",
+          "name": "ワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "hachiman_08-m12",
+          "name": "ラムチャイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bitoi_01",
+      "name": "ラーメンひらき家",
+      "area": "Bitoi Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bitoi_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bitoi_01",
+      "externalUrl": null,
+      "description": "創業25年函館の夜の街で愛される人気店。ブタの丸骨や丸鶏から旨みを引き出す清湯スープの一杯が飲みの締めに愛され本町に欠かせない一軒として人気を集める。",
+      "menus": [
+        {
+          "id": "bitoi_01-m1",
+          "name": "塩ラーメン",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bitoi_02",
+      "name": "ジンギスカンとモツ鍋ひろ米",
+      "area": "Bitoi Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bitoi_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bitoi_02",
+      "externalUrl": "https://akr3704391979.owst.jp/",
+      "description": "北海道すすきのに2店舗ありますジンギスカンとモツ鍋ひろ米です。店舗ではジンギスカン・和牛もつ鍋・ラムしゃぶが召し上がれます。ひろ米名物塩ジンギスカンは毎年大人気メニューです！大人気だった塩ジンギスカン丼はもちろん、食べ比べカップジンギスカンはRSR限定のフェス飯です！",
+      "menus": [
+        {
+          "id": "bitoi_02-m1",
+          "name": "名物塩ジンギスカン丼",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bitoi_02-m2",
+          "name": "ジンギスカン焼きそば",
+          "special": false,
+          "categories": [
+            "麺",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m3",
+          "name": "醤油ジンギスカン丼",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m4",
+          "name": "カップ塩ジンギスカン",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m5",
+          "name": "カップ醤油ジンギスカン",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m6",
+          "name": "食べ比べカップジンギスカン",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m7",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m8",
+          "name": "ノンアルコールビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m9",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m10",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m11",
+          "name": "梅サワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_02-m12",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bitoi_03",
+      "name": "SYNC.",
+      "area": "Bitoi Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bitoi_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bitoi_03",
+      "externalUrl": "https://www.instagram.com/sync.maruyama",
+      "description": "2004年から札幌市中央区円山エリア（南1条西22丁目）に店を構える「SYNC.」です！お酒と一緒に自慢の「焦がし豚汁」や「おでん」を楽しめるBARとして営業しています。昨年に続き、今年もRSRの地に帰ってきました！",
+      "menus": [
+        {
+          "id": "bitoi_03-m1",
+          "name": "焦がし豚汁背徳の焦がしガリチーフランク",
+          "special": true,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ"
+          ]
+        },
+        {
+          "id": "bitoi_03-m2",
+          "name": "焦がし豚汁とご飯のセット",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m3",
+          "name": "焦がしフランクとご飯のセット",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m4",
+          "name": "ご飯単品",
+          "special": false,
+          "categories": [
+            "ご飯"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m5",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m6",
+          "name": "レモンビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m7",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m8",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_03-m9",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bitoi_04",
+      "name": "セクシースモーク北海道",
+      "area": "Bitoi Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bitoi_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bitoi_04",
+      "externalUrl": "https://hokkaidofoodimport.com/",
+      "description": "セクシースモーク北海道は、北海道・帯広市の燻製工房「高森商店」から生まれた燻製ブランド。長年培った燻製づくりの技術と、肉を知り尽くした職人のこだわりを活かし、北海道物産展やフェスで北海道の\"旨い！\"を届けています。看板メニューの豚丼は、香ばしく焼き上げた豚肉を秘伝のタレで絡め焼きにした、食欲を刺激する自慢の一杯。北海道の味を、ライブと一緒に思いきり楽しんでください！",
+      "menus": [
+        {
+          "id": "bitoi_04-m1",
+          "name": "セクシースモーク豚丼特盛",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "bitoi_04-m2",
+          "name": "セクシースモーク豚丼（並盛/大盛/特盛）",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m3",
+          "name": "豚皿",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m4",
+          "name": "オオズワイ蟹汁",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m5",
+          "name": "オオズワイ蟹汁雑炊",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m6",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m7",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m8",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_04-m9",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "bitoi_05",
+      "name": "Curry&Barネモちゃんランド",
+      "area": "Bitoi Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/bitoi_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#bitoi_05",
+      "externalUrl": "https://nemochanland.com/",
+      "description": "札幌市内5店舗のネモちゃんランドをよろしくお願いします！",
+      "menus": [
+        {
+          "id": "bitoi_05-m1",
+          "name": "チキンとキーマのあいがけカレー",
+          "special": true,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "辛い"
+          ]
+        },
+        {
+          "id": "bitoi_05-m2",
+          "name": "チキンカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー",
+            "肉"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_05-m3",
+          "name": "キーマカレー",
+          "special": false,
+          "categories": [
+            "ご飯",
+            "カレー"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_05-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_05-m5",
+          "name": "酎ハイ各種",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_05-m6",
+          "name": "ハイボール各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "bitoi_05-m7",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "forest_01",
+      "name": "dining bar ISLAND",
+      "area": "Forest Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/forest_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#forest_01",
+      "externalUrl": "https://www.instagram.com/dining_bar_island/",
+      "description": "札幌市中心部の少し外れの狸小路9丁目にある小さなお店です。生ビールやハイボールを始め、北海道産ワインやコーヒー焼酎と、季節の食材を使用したおつまみで、一杯からでも居酒屋感覚でお気軽にお越しいただけます。定期的にレコード市等イベントも開催しています。",
+      "menus": [
+        {
+          "id": "forest_01-m1",
+          "name": "北海道産ワイン",
+          "special": true,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "forest_01-m2",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m3",
+          "name": "各種焼酎",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m4",
+          "name": "ウイスキー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m5",
+          "name": "Mixナッツ&ドライフルーツ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m6",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m7",
+          "name": "道産ワイン（スパークリング・白・オレンジ・赤）",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m8",
+          "name": "ウーロンハイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m9",
+          "name": "レモンサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m10",
+          "name": "グレープフルーツサワー",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m11",
+          "name": "焼酎各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m12",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_01-m13",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "forest_02",
+      "name": "MOIWA三荘",
+      "area": "Forest Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/forest_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#forest_02",
+      "externalUrl": "http://www.moiwasansou.com/",
+      "description": "1997年、質の高い道産木材を使い仲間たちとともに一本一本丁寧に組み上げて完成したログハウス。木のぬくもりに包まれたこの建物で、ご家族やご友人が集い、美味しい食事を囲みながら、心あたたまる時間を過ごしていただきたい――そんな想いから、この山のレストランをはじめました。藻岩山の豊かな自然に囲まれたこのログハウスで、ゆったりと心安らぐひとときや、大切な人との語らい、そして記憶に残る特別な時間をお過ごしください。",
+      "menus": [
+        {
+          "id": "forest_02-m1",
+          "name": "藻岩山エビコーンピラフとホワイトソースのアバランチ",
+          "special": true,
+          "categories": [
+            "海鮮"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "forest_02-m2",
+          "name": "チキンナゲットとチーズソースの相互依存",
+          "special": false,
+          "categories": [
+            "肉"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "forest_02-m3",
+          "name": "北海道産ポテトの灼熱コロッケ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "北海道産"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "forest_03",
+      "name": "アジャンタインドカリ店",
+      "area": "Forest Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/forest_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#forest_03",
+      "externalUrl": "https://x.com/ajanta_sapporo",
+      "description": "札幌のカレー店です。お陰様で1971年の喫茶店時代から続いております。電車通沿いの南22条西7丁目から移転し、現在は南29条西10丁目で営業しています。南警察署の向かい側にある「大きいサイズの店」の裏側にあります。是非お越しください。",
+      "menus": [
+        {
+          "id": "forest_03-m1",
+          "name": "とりかり",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "forest_03-m2",
+          "name": "ペットボトルソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_03-m3",
+          "name": "ミネラルウォーター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_03-m4",
+          "name": "麦茶",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_03-m5",
+          "name": "その他ノンカフェインドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_03-m6",
+          "name": "らむかり（限定）",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "限定"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "forest_04",
+      "name": "Canvas Cakes",
+      "area": "Forest Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/forest_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#forest_04",
+      "externalUrl": "https://canvascakes.com",
+      "description": "札幌市のオーダーメイドケーキ専門店『Canvas Cakes』は、推し活、誕生日、ウエディング、記念日など特別な日を彩るオリジナルケーキをパティシエが一つ一つ心を込めてお作りします。冷凍クール便で全国発送可能。北海道産の生クリームや小麦など、素材や味、見た目にもこだわったケーキが、大切な一日をスペシャルに彩ります。",
+      "menus": [
+        {
+          "id": "forest_04-m1",
+          "name": "道産生乳のプリンアイス",
+          "special": true,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "forest_04-m2",
+          "name": "ロリポップクッキー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_04-m3",
+          "name": "道産生乳のプリンアイス（バニラカスタード・抹茶あずき・チョコクッキー）",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "forest_05",
+      "name": "boiler",
+      "area": "Forest Restaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/forest_05.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#forest_05",
+      "externalUrl": "https://www.instagram.com/___boiler",
+      "description": "札幌市北区新川にあるboilerです。映画・音楽・アートなど、様々なカルチャーが融合した空間でおいしいコーヒーと食事を楽しんでいただけます。店内各所には映画にまつわるグッズやレコードの販売・展示もしております。是非ご覧くださいませ。",
+      "menus": [
+        {
+          "id": "forest_05-m1",
+          "name": "サンライズビーチ",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "forest_05-m2",
+          "name": "boiler特製ホットドック",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_05-m3",
+          "name": "boilerオリジナルドリップコーヒー(HOT/ICE)",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_05-m4",
+          "name": "ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "forest_05-m5",
+          "name": "ソフトドリンク各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "redstar_01",
+      "name": "RED STAR CAFE",
+      "area": "RED STAR CAFE",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/redstar_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#redstar_01",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "redstar_01-m1",
+          "name": "メニュー詳細は公式情報へ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "詳細未掲載"
+          ]
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "happiness_01",
+      "name": "zzz365(ジージーサンロクゴ)",
+      "area": "Happiness CarRestaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/happiness_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#happiness_01",
+      "externalUrl": "https://zzz365.jp/",
+      "description": "Japan French Fries Championship 2024/2025 2年連続優勝！十勝の農家さんがつくる、365日以上寝かせた特別なじゃがいもを使用したフライドポテトを作っています。通常、低温で寝かせたじゃがいもはデンプンが糖に変化し、甘みが強くなります。365日以上となると、その衝撃は相当なもの。しかしその分焦げやすく、フライドポテトにするには難しいものでした。そこで調理過程に研究を重ね、素材の持つ力を最大限に引き出した、味わって食べたくなるフライドポテトを開発しました。 今までにない、ジャガイモ自体が旨くてたまらないこの味を、ぜひお試しください…。きっと覚醒します。",
+      "menus": [
+        {
+          "id": "happiness_01-m1",
+          "name": "DEEP SALT （ディープソルト）",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "happiness_01-m2",
+          "name": "フィッシュ&チップス",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_01-m3",
+          "name": "zzz発酵レモネード",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_01-m4",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_01-m5",
+          "name": "ミネラルウォーター",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "happiness_02",
+      "name": "ななや",
+      "area": "Happiness CarRestaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/happiness_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#happiness_02",
+      "externalUrl": "https://www.nanayabannaguro.com/",
+      "description": "石狩市花畔の小さなチョコレート店「ななや」です。こころとからだに本当に優しいものをコンセプトに、自家焙煎のカカオからつくるチョコレートや旬のオーガニックスイーツをお届けしています。",
+      "menus": [
+        {
+          "id": "happiness_02-m1",
+          "name": "ジェラート",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "happiness_02-m2",
+          "name": "石狩野菜とフルーツのジュース",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m3",
+          "name": "チョコドリンク",
+          "special": false,
+          "categories": [
+            "スイーツ",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m4",
+          "name": "石狩素材のクッキー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m5",
+          "name": "ホットコーヒー",
+          "special": false,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m6",
+          "name": "待ち時間のためのシリアル「ロック」バー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m7",
+          "name": "待ち時間のためのシリアル「メタル」バー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_02-m8",
+          "name": "待ち時間のためのシリアル「ボサノ」バー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "happiness_03",
+      "name": "大空フーズ",
+      "area": "Happiness CarRestaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/happiness_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#happiness_03",
+      "externalUrl": "https://www.instagram.com/oozora_foods/",
+      "description": "大空町東藻琴の小さなソーセージ工房でオホーツクの食材にこだわってソーセージ作りをしています。昨年は自社製品がドイツIFFAコンテストにて2商品の金賞受賞いたしました。",
+      "menus": [
+        {
+          "id": "happiness_03-m1",
+          "name": "アボカドチミードッグ",
+          "special": true,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "チーズ"
+          ]
+        },
+        {
+          "id": "happiness_03-m2",
+          "name": "チリドッグ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_03-m3",
+          "name": "チーズドッグ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "チーズ"
+          ]
+        },
+        {
+          "id": "happiness_03-m4",
+          "name": "クラシックドッグ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_03-m5",
+          "name": "てりたまドッグ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_03-m6",
+          "name": "粗挽きフランク",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_03-m7",
+          "name": "行者にんにくフランク",
+          "special": false,
+          "categories": [
+            "肉",
+            "軽食"
+          ],
+          "tags": [
+            "にんにく"
+          ]
+        },
+        {
+          "id": "happiness_03-m8",
+          "name": "ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_03-m9",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "happiness_04",
+      "name": "フィッシュ&チップス The flying fish",
+      "area": "Happiness CarRestaurant",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/happiness_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#happiness_04",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "happiness_04-m1",
+          "name": "フィッシュ&チップス",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル",
+            "北海道産"
+          ]
+        },
+        {
+          "id": "happiness_04-m2",
+          "name": "フライドポテト",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_04-m3",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "happiness_04-m4",
+          "name": "ペットボトル飲料",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "greentope_01",
+      "name": "満月食堂",
+      "area": "greentope",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/greentope_01.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#greentope_01",
+      "externalUrl": "https://www.instagram.com/greentope_official/",
+      "description": "",
+      "menus": [
+        {
+          "id": "greentope_01-m1",
+          "name": "ちょっと汁あり担々麺",
+          "special": true,
+          "categories": [
+            "麺"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "greentope_01-m2",
+          "name": "二段仕込み醤油ラーメン",
+          "special": false,
+          "categories": [
+            "麺"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "greentope_02",
+      "name": "喫茶とギャラリーなみなみ",
+      "area": "greentope",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/greentope_02.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#greentope_02",
+      "externalUrl": "https://nmnm.jp/",
+      "description": "夫婦で札幌豊平で喫茶とギャラリーを営み、カフェ営業のほか展示や音楽ライブの開催、ZINEや雑貨の販売、日本と台湾を繋ぐ音楽レーベル「BIG ROMANTIC RECORDS」のレコードやグッズの販売や、音楽イベント「OTO TO TABI」「しゃけ音楽会」の運営にも携わっています。",
+      "menus": [
+        {
+          "id": "greentope_02-m1",
+          "name": "コーヒー（HOT/ICE）",
+          "special": true,
+          "categories": [
+            "朝食",
+            "飲み物"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "greentope_02-m2",
+          "name": "アイスカフェオレ",
+          "special": false,
+          "categories": [
+            "スイーツ"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "greentope_03",
+      "name": "greentope",
+      "area": "greentope",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/greentope_03.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#greentope_03",
+      "externalUrl": "https://www.instagram.com/greentope_official/",
+      "description": "",
+      "menus": [
+        {
+          "id": "greentope_03-m1",
+          "name": "ハブ＆ハーブ炭酸割",
+          "special": true,
+          "categories": [
+            "その他"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "greentope_03-m2",
+          "name": "生ビール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m3",
+          "name": "シナモン泡盛炭酸割",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m4",
+          "name": "ハイボール",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m5",
+          "name": "シナモンウイスキー",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m6",
+          "name": "白ワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m7",
+          "name": "スパークリングワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m8",
+          "name": "ジンジャーワイン",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m9",
+          "name": "シャンディガフ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m10",
+          "name": "レッドアイ",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m11",
+          "name": "酎ハイサワー",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m12",
+          "name": "カクテル各種",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_03-m13",
+          "name": "ソフトドリンク",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    },
+    {
+      "id": "greentope_04",
+      "name": "pommes",
+      "area": "greentope",
+      "imageUrl": "https://rsr.wess.co.jp/2026/img/site/food_shop/shop/greentope_04.jpg",
+      "sourceUrl": "https://rsr.wess.co.jp/2026/site/food_shop/#greentope_04",
+      "externalUrl": null,
+      "description": "",
+      "menus": [
+        {
+          "id": "greentope_04-m1",
+          "name": "カリーヴルスト＜ポテト付＞",
+          "special": true,
+          "categories": [
+            "軽食"
+          ],
+          "tags": [
+            "RSRスペシャル"
+          ]
+        },
+        {
+          "id": "greentope_04-m2",
+          "name": "チルアウトポテトフライ",
+          "special": false,
+          "categories": [
+            "軽食"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_04-m3",
+          "name": "カリーヴルスト",
+          "special": false,
+          "categories": [
+            "その他"
+          ],
+          "tags": []
+        },
+        {
+          "id": "greentope_04-m4",
+          "name": "生ビールセット",
+          "special": false,
+          "categories": [
+            "飲み物"
+          ],
+          "tags": []
+        }
+      ],
+      "lat": null,
+      "lng": null,
+      "tabelogUrl": null,
+      "tabelogScore": null
+    }
+  ]
+}

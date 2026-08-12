@@ -1,6 +1,6 @@
 const legacyFavorites=JSON.parse(localStorage.getItem('rsr-favorites')||'[]');
 const state={data:[],q:'',category:'',area:'',subPath:[],shopFavorites:new Set(JSON.parse(localStorage.getItem('rsr-shop-favorites')||JSON.stringify(legacyFavorites))),menuFavorites:new Set(JSON.parse(localStorage.getItem('rsr-menu-favorites')||'[]')),shopFavoritesOnly:false,menuFavoritesOnly:false,position:null,sort:'name',map:null,mapShop:null,userLayer:null};
-const $=s=>document.querySelector(s);const categories=['麺','ご飯','カレー','肉','海鮮','軽食','スイーツ','朝食','飲み物'];
+const $=s=>document.querySelector(s);const categories=['麺','ご飯','カレー','肉','海鮮','軽食','スイーツ','飲み物'];
 const venueMap={width:2072,height:1910,x:[514.8338934897748,87514.69744314403,-12385714.221532168],y:[151476.22812558583,-11664.858619111323,-4891383.699124284]};
 const venueAreaPoints={'Forest Restaurant':{x:547,y:283},'Water Station':{x:1805,y:499},'Oyahuru Restaurant & Decorate':{x:1198,y:607},'オフィシャルダイニング チュプ':{x:1267,y:626},'Bitoi Restaurant':{x:829,y:762},'Hachiman Restaurant & Decorate':{x:941,y:828},'PROVO FOOD & BAR':{x:1197,y:861},'Hamanasu Restaurant':{x:1267,y:872},'Tarukawa Restaurant':{x:1888,y:759},'Matsuri Café':{x:1642,y:1041},'Bannaguro Restaurant with 石狩市場×小樽横丁':{x:1718,y:1027},'greentope':{x:869,y:1248}};
 const hierarchy={

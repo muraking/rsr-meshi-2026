@@ -9,7 +9,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://rsr.wess.co.jp">
   <link rel="stylesheet" href="assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=11">
+  <link rel="stylesheet" href="styles.css?v=12">
 </head>
 <body>
   <header class="hero">
@@ -35,6 +35,7 @@
         </div>
         <button id="locate" class="secondary" type="button">◎ 現在地を使う</button>
       </div>
+      <div id="nearest-area" class="nearest-area" hidden><div><small>現在地から一番近い出店エリア</small><b id="nearest-area-name"></b><span id="nearest-area-distance"></span></div><button id="select-nearest-area" type="button">このエリアのお店を見る</button></div>
       <div id="subfilters" class="subfilters" hidden></div>
     </section>
 
@@ -77,6 +78,6 @@
     </article>
   </template>
   <script src="assets/leaflet/leaflet.js"></script>
-  <script src="app.js?v=11" defer></script>
+  <script src="app.js?v=12" defer></script>
 </body>
 </html>

@@ -6521,6 +6521,27 @@
       "coordinateSource": "ユーザー指定のRSR2026公式会場マップ上の位置",
       "tabelogUrl": null,
       "tabelogScore": null
+    },
+    {
+      "id": "miyoshino_rsr",
+      "name": "みよしの",
+      "area": "みよしの",
+      "imageUrl": "assets/miyoshino-logo.png",
+      "sourceUrl": "https://miyoshino-sapporo.jp/",
+      "externalUrl": null,
+      "description": "ぎょうざとカレーのみよしの。ぎょうざ、カレー、生ビール、アイスクリームを販売予定です。",
+      "menus": [
+        {"id":"miyoshino_rsr-m1","name":"ぎょうざ","special":false,"categories":["軽食","肉"],"tags":[]},
+        {"id":"miyoshino_rsr-m2","name":"カレー","special":false,"categories":["カレー","ご飯"],"tags":[]},
+        {"id":"miyoshino_rsr-m3","name":"生ビール","special":false,"categories":["飲み物"],"tags":[]},
+        {"id":"miyoshino_rsr-m4","name":"アイスクリーム","special":false,"categories":["スイーツ"],"tags":[]}
+      ],
+      "lat": 43.1761968,
+      "lng": 141.2947883,
+      "coordinateType": "annotated-map-position",
+      "coordinateSource": "ユーザー指定のRSR2026公式会場マップ上の位置",
+      "tabelogUrl": null,
+      "tabelogScore": null
     }
   ]
 }

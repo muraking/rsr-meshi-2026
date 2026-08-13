@@ -6513,7 +6513,7 @@
         {"id":"seicomart_hotchef-m5","name":"大きなおにぎり","special":false,"categories":["ご飯"],"tags":[],"imageUrl":"assets/seicomart/hc_onigiri.jpg"},
         {"id":"seicomart_hotchef-m6","name":"バタークロワッサン","special":false,"categories":["軽食"],"tags":[],"imageUrl":"assets/seicomart/hc_croissant.jpg"},
         {"id":"seicomart_hotchef-m7","name":"フランクソーセージ","special":false,"categories":["肉","軽食"],"tags":[],"imageUrl":"assets/seicomart/hc_franc.jpg"},
-        {"id":"seicomart_hotchef-m8","name":"サッポロ クラシック","special":false,"categories":["飲み物"],"tags":[],"imageUrl":"assets/seicomart/sapporo-classic.png"}
+        {"id":"seicomart_hotchef-m8","name":"サッポロ クラシック","special":false,"categories":["飲み物","ビール"],"tags":[],"imageUrl":"assets/seicomart/sapporo-classic.png"}
       ],
       "lat": 43.1719441,
       "lng": 141.2788275,

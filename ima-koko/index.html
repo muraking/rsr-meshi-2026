@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#173d35">
   <title>RSR 今ここマップ</title>
   <link rel="stylesheet" href="../assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=3">
-  <link rel="stylesheet" href="group-styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="group-styles.css?v=4">
 </head>
 <body>
   <header>
@@ -26,7 +26,7 @@
       <p id="group-status" class="group-status">最初にグループコードを入力してください</p>
       <label for="display-name">あなたの名前</label>
       <div class="name-row">
-        <input id="display-name" maxlength="20" autocomplete="nickname" placeholder="例：しげ">
+        <input id="display-name" maxlength="20" autocomplete="nickname" placeholder="名前を入力">
         <button id="save-name" type="button">保存</button>
       </div>
       <p class="hint">現在地を使うか、地図をタップして位置を選んでください。</p>
@@ -47,7 +47,17 @@
       <div id="people" class="people"></div>
       <p id="empty" class="empty" hidden>まだピンがありません。</p>
     </section>
+    <div class="admin-entry"><button id="admin-open" type="button">管理者メニュー</button></div>
   </main>
+
+  <dialog id="admin-dialog" class="admin-dialog">
+    <button id="admin-close" class="admin-close" type="button" aria-label="閉じる">×</button>
+    <h2>グループ管理</h2>
+    <label for="admin-password">管理パスワード</label>
+    <div class="name-row"><input id="admin-password" type="password" autocomplete="current-password"><button id="admin-load" type="button">表示</button></div>
+    <p class="hint">グループコード、登録者数、ピン数を確認できます。</p>
+    <div id="admin-groups" class="admin-groups"></div>
+  </dialog>
 
   <dialog id="setup-dialog">
     <h2>共有サーバーの設定が必要です</h2>
@@ -56,7 +66,7 @@
   </dialog>
 
   <script src="../assets/leaflet/leaflet.js"></script>
-  <script src="config.js?v=3"></script>
-  <script type="module" src="app.js?v=3"></script>
+  <script src="config.js?v=4"></script>
+  <script type="module" src="app.js?v=4"></script>
 </body>
 </html>

@@ -2,7 +2,7 @@ import{createClient}from'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+e
 
 const config=window.IMAKOKO_CONFIG||{},configured=config.supabaseUrl?.startsWith('https://')&&!config.supabaseAnonKey?.startsWith('YOUR_');
 const $=selector=>document.querySelector(selector),mapSize={width:2072,height:1910};
-const venueMap={x:[514.8338934897748,87514.69744314403,-12385230.560940],y:[151476.22812558583,-11664.858619111323,-4891511.310955]};
+const venueMap={x:[514.8338934897748,87514.69744314403,-12385206.560940],y:[151476.22812558583,-11664.858619111323,-4891528.310955]};
 const state={client:null,user:null,groupId:null,channel:null,pins:[],selected:null,draft:null,layers:null,watchId:null,lastAutoAt:0,lastAutoPoint:null,registering:false};
 const map=L.map('map',{crs:L.CRS.Simple,minZoom:-2,maxZoom:2,zoomSnap:.25,maxBounds:L.latLngBounds([[0,0],[mapSize.height,mapSize.width]]).pad(.15)});
 const bounds=[[0,0],[mapSize.height,mapSize.width]];L.imageOverlay('../assets/map2026_2.jpg',bounds).addTo(map);map.fitBounds(bounds,{padding:[6,6]});state.layers=L.layerGroup().addTo(map);

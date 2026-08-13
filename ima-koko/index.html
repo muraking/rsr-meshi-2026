@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#173d35">
   <title>RSR 今ここマップ</title>
   <link rel="stylesheet" href="../assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=4">
-  <link rel="stylesheet" href="group-styles.css?v=4">
+  <link rel="stylesheet" href="styles.css?v=6">
+  <link rel="stylesheet" href="group-styles.css?v=6">
 </head>
 <body>
   <header>
@@ -19,9 +19,12 @@
   <main>
     <section class="controls" aria-label="現在地を登録">
       <label for="group-code">グループコード</label>
+      <div class="group-select-row">
+        <select id="group-select" aria-label="参加中のグループ"><option value="">参加中のグループを選択</option></select>
+      </div>
       <div class="name-row group-row">
-        <input id="group-code" maxlength="30" autocomplete="off" placeholder="例：RSR2026-A">
-        <button id="join-group" type="button">参加</button>
+        <input id="group-code" maxlength="30" autocomplete="off" placeholder="新しいグループコード">
+        <button id="join-group" type="button">新規参加</button>
       </div>
       <p id="group-status" class="group-status">最初にグループコードを入力してください</p>
       <label for="display-name">あなたの名前</label>
@@ -31,9 +34,11 @@
       </div>
       <p class="hint">現在地を使うか、地図をタップして位置を選んでください。</p>
       <div class="actions">
-        <button id="locate" class="secondary" type="button">◎ 現在地を取得</button>
+        <button id="locate" class="secondary" type="button">◎ 現在地を取得して登録</button>
         <button id="pin-now" class="primary" type="button" disabled>📍 今ここ</button>
       </div>
+      <label class="auto-share"><input id="auto-share" type="checkbox"><span>自動で現在地を共有</span></label>
+      <p class="auto-note">オンの間、約5分ごと、または約50m移動したときに登録します。ページを閉じると停止します。</p>
       <p id="selection" class="selection">位置を選択してください</p>
     </section>
 
@@ -66,7 +71,7 @@
   </dialog>
 
   <script src="../assets/leaflet/leaflet.js"></script>
-  <script src="config.js?v=4"></script>
-  <script type="module" src="app.js?v=4"></script>
+  <script src="config.js?v=6"></script>
+  <script type="module" src="app.js?v=6"></script>
 </body>
 </html>

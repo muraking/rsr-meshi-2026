@@ -6,7 +6,8 @@
   <meta name="theme-color" content="#173d35">
   <title>RSR 今ここマップ</title>
   <link rel="stylesheet" href="../assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="group-styles.css?v=3">
 </head>
 <body>
   <header>
@@ -17,6 +18,12 @@
 
   <main>
     <section class="controls" aria-label="現在地を登録">
+      <label for="group-code">グループコード</label>
+      <div class="name-row group-row">
+        <input id="group-code" maxlength="30" autocomplete="off" placeholder="例：RSR2026-A">
+        <button id="join-group" type="button">参加</button>
+      </div>
+      <p id="group-status" class="group-status">最初にグループコードを入力してください</p>
       <label for="display-name">あなたの名前</label>
       <div class="name-row">
         <input id="display-name" maxlength="20" autocomplete="nickname" placeholder="例：しげ">
@@ -49,7 +56,7 @@
   </dialog>
 
   <script src="../assets/leaflet/leaflet.js"></script>
-  <script src="config.js?v=2"></script>
-  <script type="module" src="app.js?v=2"></script>
+  <script src="config.js?v=3"></script>
+  <script type="module" src="app.js?v=3"></script>
 </body>
 </html>

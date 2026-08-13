@@ -1,0 +1,8 @@
+.controls label{margin-top:12px}
+.controls label:first-child{margin-top:0}
+.group-status{margin:7px 0 12px;color:var(--muted);font-size:.72rem;font-weight:800}
+.group-status.joined{color:#167047}
+.group-row input{text-transform:uppercase}
+@media(min-width:760px){.controls .group-status{grid-column:2}}
+.pin-wrap{background:transparent;border:0;overflow:visible!important}
+.pin-time{position:absolute;left:-8px;top:40px;min-width:52px;padding:3px 6px;border:2px solid #fff;border-radius:999px;background:#173d35;color:#fff;text-align:center;font-size:.68rem;font-weight:900;line-height:1;box-shadow:0 2px 7px #0005;white-space:nowrap}

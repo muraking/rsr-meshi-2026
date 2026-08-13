@@ -9,7 +9,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://rsr.wess.co.jp">
   <link rel="stylesheet" href="assets/leaflet/leaflet.css">
-  <link rel="stylesheet" href="styles.css?v=15">
+  <link rel="stylesheet" href="styles.css?v=16">
 </head>
 <body>
   <header class="hero">
@@ -20,6 +20,7 @@
 
   <main>
     <section class="search-panel" aria-label="検索条件">
+      <div class="kind-tabs" role="tablist" aria-label="メニューの種類"><button id="food-tab" class="selected" type="button" role="tab">🍴 食べ物</button><button id="drink-tab" type="button" role="tab">🥤 飲み物</button></div>
       <label class="search-box">
         <span aria-hidden="true">⌕</span>
         <input id="search" type="search" aria-label="店名・メニューを検索" placeholder="店名・メニュー（例：油そば、ビール）" autocomplete="off">
@@ -60,9 +61,10 @@
     <button class="map-close" type="button" aria-label="地図を閉じる">×</button>
     <div class="map-heading"><b id="map-shop-name"></b><span id="map-area-name"></span></div>
     <div id="shop-map" aria-label="店舗と現在地の地図"></div>
-    <div class="map-legend"><span><i class="place-dot"></i>出店エリア</span><span><i class="you-dot"></i>現在地</span></div>
+    <div class="map-legend"><span><i class="place-dot"></i>出店エリア</span><span><i class="you-dot"></i>現在地</span><span><i class="route-dot"></i>最短経路</span></div>
     <button id="map-locate" class="map-locate" type="button">◎ 現在地も表示</button>
-    <p>公式会場マップ上の出店エリア中心です。現在地はGPSをこの会場図へ変換して表示するため、実際の位置とずれる場合があります。</p>
+    <button id="map-route" class="map-route" type="button" hidden>↗ 黄色い通路で最短経路を表示</button><div id="route-status" class="route-status" hidden></div>
+    <p>経路は公式会場図の黄色い通路を画像解析した概算です。GPS誤差があります。現地の案内、規制、混雑、通行止めを優先してください。</p>
   </dialog>
   <template id="card-template">
     <article class="card">
@@ -78,6 +80,6 @@
     </article>
   </template>
   <script src="assets/leaflet/leaflet.js"></script>
-  <script src="app.js?v=15" defer></script>
+  <script src="app.js?v=16" defer></script>
 </body>
 </html>
